@@ -1,0 +1,5 @@
+numpy ~= 2.1
+scipy ~= 1.14
+pytest ~= 8.3
+pytest-timeout ~= 2.3
+pylint ~= 3.2
